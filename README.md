@@ -1,4 +1,4 @@
-# Robust Few-Shot Learning with Adversarially Queried Meta-Learners
+# Adversarially Robust Few-Shot Learning:  A Meta-Learning Approach
 
 ### Micah Goldblum, Liam Fowl, Tom Goldstein
 
